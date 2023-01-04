@@ -36,7 +36,7 @@ public class _05_VariableNaming {
         String str = "";
 
         // 절대 변하지 않는 상수는 대문자로
-        final String CODE = "KR";
+        final String CODE = "KR"; // final : 상수
         // CODE = "US" (error)
     }
 }
